@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="banner_height">54dp</dimen>
+    <dimen name="unit_2">16dp</dimen>
+    <dimen name="unit_1">8dp</dimen>
+    <dimen name="unit_4">32dp</dimen>
+</resources>
